@@ -1,0 +1,12 @@
+### SOBRE O PROJETO
+
+- O material foi usado do site Kaggle para ajudar na pesquisa e prática. 
+- Este projeto tem por objetivo desenvolver um algoritmo de machine learn para prever a tendência de Uma pessoa em desenvolver algum tipo de doença cardiaca com base em alguns fatores clinicos.
+
+
+- Aqui temos como fluxo de trabalho
+
+* HeartDiagnosticos.csv -> dados brutos
+* Heart_ETL.ipynb -> A limpeza e o tratamento geral dos dados
+* Heart_Dados_Tratados -> Os dados tratados
+* Heart_ML_Classificação ->  algortimo para uma classificação
